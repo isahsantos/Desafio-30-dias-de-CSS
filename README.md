@@ -9,7 +9,6 @@ principalmente a parte de front-end e para aprender a estilizar meu front-end o 
 # Techs 👩‍💻️
 HTML
 CSS 
-JS 
 
 
 

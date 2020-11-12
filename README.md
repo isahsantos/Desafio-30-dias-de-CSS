@@ -6,10 +6,5 @@ para aprender a estiliazr páginas com nosso Cascade Style Sheet.
 Sou amante da tecnologia, mas tenho preferência para  desenvolvimento WEB,
 principalmente a parte de front-end e para aprender a estilizar meu front-end o desafio de 30 dias do CSS tem esse objetivo. 
 
-# Techs 👩‍💻️
-HTML
-CSS 
-
-
 
 

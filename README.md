@@ -12,8 +12,9 @@ Utilizamos diversas propriedades do CSS, como transform, flex, transition, box s
 [<img src="https://img.youtube.com/vi/-nwJOxu-Slw/maxresdefault.jpg" width="50%">](https://youtu.be/-nwJOxu-Slw)
 
 ## Desafio dia 02 -> Tela de loading 
- O que estudar para criar este efeito:
+O que estudar para criar este efeito:
 elementos utilizando keyframes.
 animation do CSS
 transform para modificar os elementos do loading.
+
 [<img src="https://img.youtube.com/vi/eXmjido_qAE/maxresdefault.jpg" width="50%">](https://youtu.be/eXmjido_qAE)

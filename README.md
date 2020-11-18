@@ -1,7 +1,7 @@
 # Desafio 30 dias de CSS 📖️
 
 Este projeto tem por objetivo relizar o desafio dos 30 dias de CSS,
-para aprender a estiliazr páginas com nosso Cascade Style Sheet.
+para aprender a estiliazar páginas com nosso Cascade Style Sheet.
 🚀️💻️
 
 ## Por que fazer este desafio?  📅️🗒️

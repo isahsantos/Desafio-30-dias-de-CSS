@@ -27,7 +27,8 @@ animation do CSS, transform para modificar os elementos do loading.
 ### Deasafio dia 03: Checkbox de modo noturno
 
 Estilização de input com tipo checkbox.
-Utilizando os pseudo-elementos : after e :before com transform para mudar a estilização da página.
+Utilizando os pseudo-elementos after e before com transform para mudar a estilização da página.
 Mover elementos com translateX do transform.
 
 [<img src="https://img.youtube.com/vi/2DhRG-6LOAU/maxresdefault.jpg" width="50%">](https://youtu.be/2DhRG-6LOAU)
+

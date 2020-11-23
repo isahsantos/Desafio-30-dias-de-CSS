@@ -32,3 +32,10 @@ Mover elementos com translateX do transform.
 
 [<img src="https://img.youtube.com/vi/2DhRG-6LOAU/maxresdefault.jpg" width="50%">](https://youtu.be/2DhRG-6LOAU)
 
+### Deasafio dia 04: Efeito de texto Typewrite 
+
+O que estudar para criar este efeito:
+Criar efeito de cursor de texto piscando com animation, unidade de medida em. e  @keyframes criando animações usando from{} e to{}.
+
+[<img src="https://img.youtube.com/vi/NpV0LT1nlwM/maxresdefault.jpg" width="50%">](https://youtu.be/NpV0LT1nlwM)
+

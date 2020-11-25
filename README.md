@@ -39,3 +39,11 @@ Criar efeito de cursor de texto piscando com animation, unidade de medida em. e 
 
 [<img src="https://img.youtube.com/vi/NpV0LT1nlwM/maxresdefault.jpg" width="50%">](https://youtu.be/NpV0LT1nlwM)
 
+### Deasafio dia 05: Animação usando caixa de pesquisar
+
+O que estudar para criar este efeito:
+Estudr as propriedades do hover e trasnform. 
+
+[<img src="https://img.youtube.com/vi/IIf6eenY5-o/maxresdefault.jpg" width="50%">](https://youtu.be/IIf6eenY5-o)
+
+

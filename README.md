@@ -46,4 +46,11 @@ Estudr as propriedades do hover e trasnform.
 
 [<img src="https://img.youtube.com/vi/IIf6eenY5-o/maxresdefault.jpg" width="50%">](https://youtu.be/IIf6eenY5-o)
 
+### Deasafio dia 06: 5 estrelas para feedback
+
+O que estudar para criar este efeito:
+Hover e transition
+
+[<img src="https://img.youtube.com/vi/VN6HLlwVvtw/maxresdefault.jpg" width="50%">](https://youtu.be/VN6HLlwVvtw)
+
 

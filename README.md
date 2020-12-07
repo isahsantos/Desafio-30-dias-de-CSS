@@ -54,3 +54,8 @@ Hover e transition
 [<img src="https://img.youtube.com/vi/VN6HLlwVvtw/maxresdefault.jpg" width="50%">](https://youtu.be/VN6HLlwVvtw)
 
 
+### Deasafio dia 07:  Barra de progresso circular 
+
+Propridades estudadas: pointer-events, transform, stroke etc. 
+
+[<img src="https://img.youtube.com/vi/qpDWxp7HALw/maxresdefault.jpg" width="50%">](https://youtu.be/qpDWxp7HALw)

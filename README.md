@@ -65,4 +65,4 @@ Propridades estudadas: pointer-events, transform, stroke etc.
 Propridades estudadas: animation, transform, stroke etc. 
 Confira no Codepen: https://codepen.io/isahsantos/pen/dypXrGP
 
-[<img src="https://img.youtube.com/vi/qpDWxp7HALw/maxresdefault.jpg" width="50%">](https://youtu.be/qpDWxp7HALw)
+[<img src="https://img.youtube.com/vi/WIbLBzFDqp0/maxresdefault.jpg" width="50%">](https://youtu.be/WIbLBzFDqp0)

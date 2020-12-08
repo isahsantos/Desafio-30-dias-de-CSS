@@ -59,3 +59,10 @@ Hover e transition
 Propridades estudadas: pointer-events, transform, stroke etc. 
 
 [<img src="https://img.youtube.com/vi/qpDWxp7HALw/maxresdefault.jpg" width="50%">](https://youtu.be/qpDWxp7HALw)
+
+### Desafio dia 08:  Texto com animação
+
+Propridades estudadas: animation, transform, stroke etc. 
+Confira no Codepen: https://codepen.io/isahsantos/pen/dypXrGP
+
+[<img src="https://img.youtube.com/vi/qpDWxp7HALw/maxresdefault.jpg" width="50%">](https://youtu.be/qpDWxp7HALw)

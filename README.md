@@ -79,3 +79,9 @@ Confira no Codepen:https://codepen.io/isahsantos/pen/vYXKwbY
 Propriedades estudadas: Transform, animation, display, keyframes 
 
 [<img src="https://img.youtube.com/vi/AvVYy3By1z4/maxresdefault.jpg" width="50%">](https://youtu.be/AvVYy3By1z4)
+
+### Desafio dia 11: Preloader Animado 
+
+Propriedades estudadas: Transform, animation, keyframes 
+
+[<img src="https://img.youtube.com/vi/0V-aaQi6qGQ/maxresdefault.jpg" width="50%">](https://youtu.be/0V-aaQi6qGQ)

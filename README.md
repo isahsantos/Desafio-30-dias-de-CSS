@@ -66,3 +66,16 @@ Propridades estudadas: animation, transform, stroke etc.
 Confira no Codepen: https://codepen.io/isahsantos/pen/dypXrGP
 
 [<img src="https://img.youtube.com/vi/WIbLBzFDqp0/maxresdefault.jpg" width="50%">](https://youtu.be/WIbLBzFDqp0)
+
+### Desafio dia 09: Indicador Scroll Down
+
+Propriedades estudadas: Transform, animation, opacity, transition,keyframes
+Confira no Codepen:https://codepen.io/isahsantos/pen/vYXKwbY
+
+[<img src="https://img.youtube.com/vi/yZ1m3QyZyi4/maxresdefault.jpg" width="50%">](https://youtu.be/yZ1m3QyZyi4)
+
+### Desafio dia 10: Texto Natalino 
+
+Propriedades estudadas: Transform, animation, display, keyframes 
+
+[<img src="https://img.youtube.com/vi/AvVYy3By1z4/maxresdefault.jpg" width="50%">](https://youtu.be/AvVYy3By1z4)

@@ -85,3 +85,10 @@ Propriedades estudadas: Transform, animation, display, keyframes
 Propriedades estudadas: Transform, animation, keyframes 
 
 [<img src="https://img.youtube.com/vi/0V-aaQi6qGQ/maxresdefault.jpg" width="50%">](https://youtu.be/0V-aaQi6qGQ)
+
+### Desafio dia 11: Background Animado
+
+Propriedades estudadas: Animation, animation-delay, animation-duration, keyframes, transform.
+
+[<img src="https://img.youtube.com/vi/7RTY1THjacU/maxresdefault.jpg" width="50%">](
+https://youtu.be/7RTY1THjacU)

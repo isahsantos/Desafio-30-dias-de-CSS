@@ -1,0 +1,80 @@
+body{
+    background-color: #f3eff5;
+}
+.container {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    perspective: 1000px;
+}
+
+.card {
+    position: relative;
+    width: 8rem;
+    height: 8rem;
+    margin: 0.5rem;
+    text-align: center;
+    line-height: 8rem;
+    color: #f3eff5;
+    transform-style: preserve-3d;
+}
+
+.face {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 0.8rem;
+    background-size: cover;
+    background-position: center center;
+    backface-visibility: hidden;
+    transition: transform 0.5s ease-in-out;
+}
+
+.face--front {
+    background: #cd70ff;
+    font-size: 3rem;
+}
+
+.face--back {
+    background: #cd70ff;
+    font-size: 1.5rem;
+    transform: rotateY(180deg);
+}
+
+.card:hover .face--front {
+    transform: rotateY(-180deg);
+}
+
+.card:hover .face--back {
+    transform: rotateY(0deg);
+}
+
+.card:hover .facebook {
+    transform: rotateY(0deg);
+    background: #f15bb5;
+}
+
+.card:hover .twitter {
+    transform: rotateY(0deg);
+    background: #fc459a;
+}
+
+.card:hover .linkdin {
+    transform: rotateY(0deg);
+    background: #f3a2b1;
+}
+
+.card:hover .codepen {
+    transform: rotateY(0deg);
+    background: #58113b;
+}
+
+.card:hover .github {
+    transform: rotateY(0deg);
+    background: rgb(214, 26, 129);
+}

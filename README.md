@@ -92,3 +92,9 @@ Propriedades estudadas: Animation, animation-delay, animation-duration, keyframe
 
 [<img src="https://img.youtube.com/vi/7RTY1THjacU/maxresdefault.jpg" width="50%">](
 https://youtu.be/7RTY1THjacU)
+
+### Desafio dia 13: Flip Card
+
+Propriedades estudadas: Animation, transform, position. 
+
+![alt text](https://github.com/isahsantos/github-view/blob/master/src/assets/img/Capa%20do%20Projeto.gif "Capa Projeto Title Text 1")

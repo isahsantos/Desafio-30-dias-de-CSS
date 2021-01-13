@@ -97,4 +97,4 @@ https://youtu.be/7RTY1THjacU)
 
 Propriedades estudadas: Animation, transform, position. 
 
-![alt text](https://github.com/isahsantos/github-view/blob/master/src/assets/img/Capa%20do%20Projeto.gif "Capa Projeto Title Text 1")
+![alt text](https://github.com/isahsantos/Desafio-30-dias-de-CSS/blob/main/Desafios/img/30%20dias%20de%20css%20-%20dia%2013.gif?raw=true  "Desafio dia 13")

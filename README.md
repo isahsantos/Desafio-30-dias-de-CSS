@@ -14,7 +14,7 @@ principalmente a parte de front-end e para aprender a estilizar meu front-end o 
 Utilizamos diversas propriedades do CSS como: 
 transform, flex, transition, box shadow entre outras. 
 
-![alt text](https://github.com/isahsantos/Desafio-30-dias-de-CSS/blob/main/Desafios/img/30%20dias%20de%20css%20-%20dia%2013.gif?raw=true  "Desafio dia 01")
+![alt text](https://github.com/isahsantos/Desafio-30-dias-de-CSS/blob/main/Desafios/img/Dia1.gif?raw=true "Desafio dia 01")
 
 ### Desafio dia 02: Tela de loading 
 

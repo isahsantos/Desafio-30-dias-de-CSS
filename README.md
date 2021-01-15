@@ -22,7 +22,7 @@ O que estudar para criar este efeito:
 elementos utilizando keyframes.
 animation do CSS, transform para modificar os elementos do loading.
 
-[<img src="https://img.youtube.com/vi/eXmjido_qAE/maxresdefault.jpg" width="50%">](https://youtu.be/eXmjido_qAE)
+![alt text](https://github.com/isahsantos/Desafio-30-dias-de-CSS/blob/main/Desafios/img/30%20dias%20de%20css%20-%20dia%2013.gif?raw=true  "Desafio dia 02")
 
 ### Deasafio dia 03: Checkbox de modo noturno
 
@@ -30,21 +30,22 @@ Estilização de input com tipo checkbox.
 Utilizando os pseudo-elementos after e before com transform para mudar a estilização da página.
 Mover elementos com translateX do transform.
 
-[<img src="https://img.youtube.com/vi/2DhRG-6LOAU/maxresdefault.jpg" width="50%">](https://youtu.be/2DhRG-6LOAU)
+![alt text](https://github.com/isahsantos/Desafio-30-dias-de-CSS/blob/main/Desafios/img/Dia3.gif?raw=true  "Desafio dia 03")
 
 ### Deasafio dia 04: Efeito de texto Typewrite 
 
 O que estudar para criar este efeito:
 Criar efeito de cursor de texto piscando com animation, unidade de medida em. e  @keyframes criando animações usando from{} e to{}.
 
-[<img src="https://img.youtube.com/vi/NpV0LT1nlwM/maxresdefault.jpg" width="50%">](https://youtu.be/NpV0LT1nlwM)
+
+![alt text](https://github.com/isahsantos/Desafio-30-dias-de-CSS/blob/main/Desafios/img/Dia4.gif?raw=true  "Desafio dia 04")
 
 ### Deasafio dia 05: Animação usando caixa de pesquisar
 
 O que estudar para criar este efeito:
 Estudr as propriedades do hover e trasnform. 
 
-[<img src="https://img.youtube.com/vi/IIf6eenY5-o/maxresdefault.jpg" width="50%">](https://youtu.be/IIf6eenY5-o)
+![alt text](https://github.com/isahsantos/Desafio-30-dias-de-CSS/blob/main/Desafios/img/Dia5.gif?raw=true "Desafio dia 05")
 
 ### Deasafio dia 06: 5 estrelas para feedback
 

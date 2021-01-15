@@ -31,6 +31,7 @@ Utilizando os pseudo-elementos after e before com transform para mudar a estiliz
 Mover elementos com translateX do transform.
 
 ![alt text](https://github.com/isahsantos/Desafio-30-dias-de-CSS/blob/main/Desafios/img/Dia3.gif?raw=true  "Desafio dia 03")
+teste
 
 ### Deasafio dia 04: Efeito de texto Typewrite 
 

@@ -22,7 +22,7 @@ O que estudar para criar este efeito:
 elementos utilizando keyframes.
 animation do CSS, transform para modificar os elementos do loading.
 
-![alt text](https://github.com/isahsantos/Desafio-30-dias-de-CSS/blob/main/Desafios/img/30%20dias%20de%20css%20-%20dia%2013.gif?raw=true  "Desafio dia 02")
+![alt text](https://github.com/isahsantos/Desafio-30-dias-de-CSS/blob/main/Desafios/img/Dia2.gif?raw=true  "Desafio dia 02")
 
 ### Deasafio dia 03: Checkbox de modo noturno
 

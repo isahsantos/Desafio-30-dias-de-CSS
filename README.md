@@ -101,7 +101,7 @@ Propriedades estudadas: Animation, transform, position.
 
 ![alt text](https://github.com/isahsantos/Desafio-30-dias-de-CSS/blob/main/Desafios/img/30%20dias%20de%20css%20-%20dia%2013.gif?raw=true  "Desafio dia 13")
 
-### Desafio dia 14: Flip Card
+### Desafio dia 14: Texto preto e branco
 
 Propriedades estudadas: pointer events, transform, mix blend mode. 
 

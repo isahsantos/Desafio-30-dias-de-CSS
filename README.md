@@ -105,3 +105,4 @@ Propriedades estudadas: Animation, transform, position.
 
 Propriedades estudadas: pointer events, transform, mix blend mode. 
 
+![alt text](https://github.com/isahsantos/Desafio-30-dias-de-CSS/blob/main/Desafios/img/Dia14.gif?raw=true "Desafio dia 14")

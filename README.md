@@ -119,7 +119,7 @@ Propriedades estudadas: nth-child, hover, transition.
 
 ![alt text](https://github.com/isahsantos/Desafio-30-dias-de-CSS/blob/main/Desafios/img/Dia16.gif?raw=true "Desafio dia 16")
 
-### Desafio dia 16: Botão do Valorant
+### Desafio dia 17: Botão do Valorant
 
 Propriedades estudadas: after, before, hover, transition, transform.
 

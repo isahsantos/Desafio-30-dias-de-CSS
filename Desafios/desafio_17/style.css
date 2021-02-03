@@ -1,0 +1,161 @@
+:root {
+    --red: #ff4655;
+    --white: #ece8e1;
+    --black: #0f1923;
+    --outline: rgba(236, 232, 225, 0.5);
+    }
+    
+    *,
+    ::after,
+    ::before {
+    box-sizing: border-box;
+    }
+    
+    html,
+    body {
+    font-size: 10px;
+    margin: 0;
+    background-color: var(--black);
+    color: var(--white);
+    font-family: "Valorant";
+    text-rendering: optimizeLegibility;
+    }
+    
+    #container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    }
+    
+    .box {
+    width: 30%;
+    }
+    
+    button {
+    width: 100%;
+    margin-bottom: 3rem;
+    position: relative;
+    display: block;
+    font-size: 1.5rem;
+    padding: 0.7rem;
+    border: 0;
+    text-transform: uppercase;
+    background-color: transparent;
+    cursor: pointer;
+    color: var(--white);
+    
+    transition: 0.5s;
+    }
+    
+    button::before,
+    button::after {
+    background-color: transparent;
+    content: "";
+    display: block;
+    position: absolute;
+    height: calc(50% - 0.4rem);
+    width: 100%;
+    border: 1px solid var(--outline);
+    left: 0;
+    }
+    
+    button::before {
+    border-bottom: 0;
+    top: 0;
+    }
+    
+    button::after {
+    border-top: 0;
+    bottom: 0;
+    }
+    
+    button:hover {
+    color: var(--white);
+    }
+    
+    .label {
+    position: relative;
+    overflow: hidden;
+    margin: 0;
+    }
+    
+    .label:before {
+    content: "";
+    height: 100%;
+    display: block;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    }
+    
+    .hover-effect {
+    content: "";
+    display: block;
+    position: absolute;
+    height: 100%;
+    width: 120%;
+    top: 0;
+    left: -5%;
+    z-index: 1;
+    background-color: var(--red);
+    transform: translateX(-100%) skew(-10deg);
+    transition: -webkit-transform 0.3s ease-out;
+    transition: transform 0.3s ease-out;
+    }
+    
+    button:hover .hover-effect {
+    transform: translateX(0) skew(-10deg);
+    }
+    
+    .label-text {
+    position: relative;
+    display: block;
+    padding: 1.9rem 3rem;
+    background-color: transparent;
+    z-index: 1;
+    }
+    
+    .label-text::after {
+    content: "";
+    display: block;
+    position: absolute;
+    height: 0.6rem;
+    width: 0.6rem;
+    right: 0;
+    bottom: 0;
+    transition: background-color 0.2s ease-in;
+    }
+    .primary {
+    color: var(--black);
+    }
+    
+    .primary .label::before {
+    background-color: var(--white);
+    }
+    
+    /* OUTLINE BUTTON */
+    .outline {
+    color: var(--white);
+    }
+    
+    .outline .label::before,
+    .outline .label::after {
+    border: 1px solid var(--outline);
+    }
+    
+    /* OUTLINE RED BUTTON */
+    .outline + .red {
+    color: var(--red);
+    }
+    
+    .outline + .red:hover {
+    color: var(--white);
+    }
+    
+    .outline + .red .label::before,
+    .outline + .red .label::after {
+    border-color: var(--red);
+    }

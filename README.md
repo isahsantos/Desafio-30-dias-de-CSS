@@ -112,3 +112,9 @@ Propriedades estudadas: pointer events, transform, mix blend mode.
 Propriedades estudadas: manipulação de keyframes para trabalhar com camadas de span,  transform e transition
 
 ![alt text](https://github.com/isahsantos/Desafio-30-dias-de-CSS/blob/main/Desafios/img/Dia15.gif?raw=true "Desafio dia 15")
+
+### Desafio dia 16: Botão neon
+
+Propriedades estudadas: nth-child, hover, transition.
+
+![alt text](https://github.com/isahsantos/Desafio-30-dias-de-CSS/blob/main/Desafios/img/Dia16.gif?raw=true "Desafio dia 16")

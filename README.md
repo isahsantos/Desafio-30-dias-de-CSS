@@ -124,3 +124,14 @@ Propriedades estudadas: nth-child, hover, transition.
 Propriedades estudadas: after, before, hover, transition, transform.
 
 ![alt text](https://github.com/isahsantos/Desafio-30-dias-de-CSS/blob/main/Desafios/img/Dia17.gif?raw=true "Desafio dia 17")
+### Desafio dia 18: Card Perfil 
+
+Propriedades estudadas: hover e opacity.
+
+![alt text](https://github.com/isahsantos/Desafio-30-dias-de-CSS/blob/main/Desafios/img/Dia18.gif?raw=true "Desafio dia 18")
+
+### Desafio dia 19: Icones Neon
+
+Propriedades estudadas: nyh-child, opacity, hover, transition, transform, after e before.
+
+![alt text](https://github.com/isahsantos/Desafio-30-dias-de-CSS/blob/main/Desafios/img/Dia17.gif?raw=true "Desafio dia 19")

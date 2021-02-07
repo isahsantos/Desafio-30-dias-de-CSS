@@ -134,4 +134,10 @@ Propriedades estudadas: hover e opacity.
 
 Propriedades estudadas: nyh-child, opacity, hover, transition, transform, after e before.
 
-![alt text](https://github.com/isahsantos/Desafio-30-dias-de-CSS/blob/main/Desafios/img/Dia17.gif?raw=true "Desafio dia 19")
+![alt text](https://github.com/isahsantos/Desafio-30-dias-de-CSS/blob/main/Desafios/img/Dia19.gif?raw=true "Desafio dia 19")
+
+### Desafio dia 20: Card para e-commerce 
+
+Propriedades estudadas: clip-path, transition, transform, after, before e hover.
+
+![alt text](https://github.com/isahsantos/Desafio-30-dias-de-CSS/blob/main/Desafios/img/Dia20.gif?raw=true "Desafio dia 20")

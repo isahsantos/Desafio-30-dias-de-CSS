@@ -141,3 +141,9 @@ Propriedades estudadas: nyh-child, opacity, hover, transition, transform, after 
 Propriedades estudadas: clip-path, transition, transform, after, before e hover.
 
 ![alt text](https://github.com/isahsantos/Desafio-30-dias-de-CSS/blob/main/Desafios/img/Dia20.gif?raw=true "Desafio dia 20")
+
+### Desafio dia 21: Background video
+
+Propriedades estudadas: mix-blend-mode, position,object-fit.  
+
+![alt text](https://github.com/isahsantos/Desafio-30-dias-de-CSS/blob/main/Desafios/img/Dia21.gif?raw=true "Desafio dia 21")

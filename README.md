@@ -147,3 +147,9 @@ Propriedades estudadas: clip-path, transition, transform, after, before e hover.
 Propriedades estudadas: mix-blend-mode, position,object-fit.  
 
 ![alt text](https://github.com/isahsantos/Desafio-30-dias-de-CSS/blob/main/Desafios/img/Dia21.gif?raw=true "Desafio dia 21")
+
+### Desafio dia 22: Botao de Icone com hover animado
+
+Propriedades estudadas: mfloat, transition, transform, cursor, hover, nth-child.
+
+![alt text](https://github.com/isahsantos/Desafio-30-dias-de-CSS/blob/main/Desafios/img/Dia22.gif?raw=true "Desafio dia 22")

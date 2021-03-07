@@ -153,3 +153,9 @@ Propriedades estudadas: mix-blend-mode, position,object-fit.
 Propriedades estudadas: mfloat, transition, transform, cursor, hover, nth-child.
 
 ![alt text](https://github.com/isahsantos/Desafio-30-dias-de-CSS/blob/main/Desafios/img/Dia22.gif?raw=true "Desafio dia 22")
+
+### Desafio dia 23: Video em mockups
+
+Propriedades estudadas: display, position.
+
+![alt text](https://github.com/isahsantos/Desafio-30-dias-de-CSS/blob/main/Desafios/img/Dia23.gif?raw=true "Desafio dia 23")

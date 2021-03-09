@@ -163,4 +163,4 @@ Propriedades estudadas: display, position.
 
 Propriedades estudadas: Transition, transform, nth-child.
 
-![alt text](https://github.com/isahsantos/Desafio-30-dias-de-CSS/blob/main/Desafios/img/Dia23.gif?raw=true "Desafio dia 23")
+![alt text](https://github.com/isahsantos/Desafio-30-dias-de-CSS/blob/main/Desafios/img/Dia24.gif?raw=true "Desafio dia 24")

@@ -1,0 +1,379 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 0;
+  }
+  
+  body {
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+  }
+  
+  .container {
+    height: 100vh;
+    display: flex;
+    align-items: stretch;
+  }
+  
+  .container aside {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 600px;
+  }
+  .titulo{
+    margin:auto;
+  }
+  
+  .container aside .center {
+    margin: 40px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 360px;
+    height: 100%;
+  }
+  
+  .container aside .center .topo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .container aside .center .topo img {
+    width: 70px;
+  }
+  
+  .container aside .center .topo .aviso {
+    position: relative;
+  }
+  
+  .container aside .center .topo .aviso:hover .tooltip {
+    display: block;
+  }
+  
+  .container aside .center .topo .aviso .tooltip {
+    display: none;
+    background: #FFF;
+    border-radius: 5px;
+    padding: 25px 20px;
+    width: 300px;
+    position: absolute;
+    z-index: 1;
+    font-size: 13px;
+    font-weight: 600;
+    top: -24px;
+    left: 39px;
+    box-shadow: -1px -1px 15px rgba(0, 0, 0, 0.4);
+  }
+  
+  .container aside .center .topo .aviso .tooltip::before {
+    content: "";
+    position: absolute;
+    left: -10px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px;
+    width: 0;
+    height: 0;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-right: 10px solid white;
+  }
+  
+  .container aside .center .topo .aviso .tooltip p {
+    margin-top: 15px;
+  }
+  
+  .container aside .center .topo .aviso .tooltip p a {
+    text-decoration: none;
+    color: #d5484b;
+  }
+  
+  .container aside .center .topo .aviso .tooltip p a svg {
+    color: #d5484b;
+    position: absolute;
+    margin-top: -6px;
+  }
+  
+  .container aside .center .topo .aviso svg {
+    color: #b4b4b4;
+  }
+  
+  .container aside .center form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  
+  .container aside .center form h1 {
+    margin-bottom: 40px;
+  }
+  
+  .container aside .center form .input-text {
+    width: 100%;
+    height: 60px;
+    background: #ededed;
+    margin-bottom: 15px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    align-items: flex-end;
+    position: relative;
+    transition: all 0.2s;
+  }
+  
+  .container aside .center form .input-text label {
+    top: 20px;
+    left: 20px;
+    pointer-events: none;
+    text-transform: uppercase;
+    font-size: 11px;
+    font-weight: 800;
+    color: #999999;
+    position: absolute;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+  }
+  
+  .container aside .center form .input-text input {
+    background: #ededed;
+    width: 100%;
+    height: 100%;
+    border: 2px solid #ededed;
+    border-radius: 3px;
+    padding: 8px 10px;
+    font-size: 16px;
+    font-weight: 800;
+    color: #333333;
+  }
+  
+  .container aside .center form .input-text input::-webkit-input-placeholder {
+    text-transform: uppercase;
+    font-size: 11px;
+    color: #999999;
+  }
+  
+  .container aside .center form .input-text input:-ms-input-placeholder {
+    text-transform: uppercase;
+    font-size: 11px;
+    color: #999999;
+  }
+  
+  .container aside .center form .input-text input::-ms-input-placeholder {
+    text-transform: uppercase;
+    font-size: 11px;
+    color: #999999;
+  }
+  
+  .container aside .center form .input-text input::placeholder {
+    text-transform: uppercase;
+    font-size: 11px;
+    color: #999999;
+  }
+  
+  .container aside .center form .input-text input:hover {
+    background: #e7e7e7;
+    color: #7e7e7e;
+  }
+  
+  .container aside .center form .input-text input:focus + svg {
+    display: none;
+  }
+  
+  .container aside .center form .input-text input:focus + label {
+    left: 10px;
+    top: 7px;
+    font-size: 9px;
+  }
+  
+  .container aside .center form .input-text input:focus, .container aside .center form .input-text input .input-text {
+    background: white;
+    border: 2px solid #333333;
+    color: #333333;
+  }
+  
+  .container aside .center form .input-text input:not(:placeholder-shown) + label {
+    left: 10px;
+    top: 7px;
+    font-size: 9px;
+  }
+  
+  .container aside .center form .salvar .styled-checkbox {
+    position: absolute;
+    opacity: 0;
+  }
+  
+  .container aside .center form .salvar .styled-checkbox + label {
+    position: relative;
+    cursor: pointer;
+    padding: 0;
+    font-size: 14px;
+    font-weight: 700;
+    color: #7e7e91;
+    transition: all 0.2s;
+  }
+  
+  .container aside .center form .salvar .styled-checkbox + label:hover {
+    opacity: 0.9;
+  }
+  
+  .container aside .center form .salvar .styled-checkbox + label:before {
+    content: '';
+    margin-right: 10px;
+    display: inline-block;
+    vertical-align: text-top;
+    width: 18px;
+    height: 17px;
+    background: #ececec;
+    border-radius: 3px;
+  }
+  
+  .container aside .center form .salvar .styled-checkbox:hover + label:before {
+    background: #e7e7e7;
+    color: #7e7e7e;
+  }
+  
+  .container aside .center form .salvar .styled-checkbox:checked + label:before {
+    background: #d13639;
+  }
+  
+  .container aside .center form .salvar .styled-checkbox:checked + label:after {
+    content: '';
+    position: absolute;
+    left: 4px;
+    top: 8px;
+    background: white;
+    width: 2px;
+    height: 2px;
+    box-shadow: 2px 0 0 white, 4px 0 0 white, 4px -2px 0 white, 4px -4px 0 white, 4px -6px 0 white, 4px -8px 0 white;
+    transform: rotate(45deg);
+  }
+  
+  .container aside .center form h2 {
+    font-size: 14px;
+  }
+  
+  .container aside .center form .submit {
+    margin-top: 60px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .container aside .center form .submit button {
+    background: #d13639;
+    border: 0;
+    width: 70px;
+    height: 70px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  
+  .container aside .center form .submit button:hover {
+    background: #bc252a;
+  }
+  
+  .container aside .center form .submit button svg {
+    color: white;
+  }
+  
+  .container aside .center .infos {
+    width: 100%;
+  }
+  
+  .container aside .center .infos .session {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .container aside .center .infos .version {
+    color: black;
+    opacity: 0.3;
+    transition: all 0.2s;
+  }
+  
+  .container aside .center .infos .version:hover {
+    opacity: 0.5;
+  }
+  
+  .container aside .center .infos a {
+    color: #b2b2b6;
+    text-decoration: none;
+    font-size: 11px;
+    font-weight: 800;
+    text-transform: uppercase;
+    transition: color 0.2s;
+  }
+  
+  .container aside .center .infos a:hover {
+    color: #111111;
+  }
+  
+  .container .background {
+    background: url("./bg.jpg") no-repeat right;
+    background-size: cover;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+    justify-content: space-between;
+    flex: 1;
+  }
+  
+  .container .background .window-buttons {
+    margin: 0;
+  }
+  
+  .container .background .window-buttons button {
+    width: 55px;
+    height: 50px;
+    background: transparent;
+    border: 0;
+    transition: all 0.1s;
+    cursor: pointer;
+    opacity: 0.4;
+  }
+  
+  .container .background .window-buttons button:hover {
+    background: rgba(255, 255, 255, 0.4);
+    opacity: 0.6;
+  }
+  
+  .container .background .window-buttons button svg {
+    color: white;
+    filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.3));
+  }
+  
+  .container .background .footer {
+    padding: 30px;
+  }
+  
+  .container .background .footer button {
+    padding: 10px 12px;
+    border: 0;
+    background: #7d797c;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s;
+  }
+  
+  .container .background .footer button:hover {
+    background: #a5a3a5;
+  }
+  
+  .container .background .footer button svg {
+    width: 20px;
+    height: 20px;
+    color: white;
+  }
+  
+  @media only screen and (max-width: 700px) {
+    .container .background .window-buttons, .container .background .footer {
+      display: none;
+    }
+}

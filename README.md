@@ -159,3 +159,8 @@ Propriedades estudadas: mfloat, transition, transform, cursor, hover, nth-child.
 Propriedades estudadas: display, position.
 
 ![alt text](https://github.com/isahsantos/Desafio-30-dias-de-CSS/blob/main/Desafios/img/Dia23.gif?raw=true "Desafio dia 23")
+### Desafio dia 24: Card Heróis
+
+Propriedades estudadas: Transition, transform, nth-child.
+
+![alt text](https://github.com/isahsantos/Desafio-30-dias-de-CSS/blob/main/Desafios/img/Dia23.gif?raw=true "Desafio dia 23")
